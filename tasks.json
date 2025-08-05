@@ -14,5 +14,18 @@
       "reveal": "always",
       "focus": true
     }
+  },
+  "tasks": {
+    "run-file": {
+      "label": "Run File",
+      "command": "sh",
+      "args": [
+        "${extension}/custom_runfile.sh"
+      ],
+      "description": "Compiles and runs the current code file",
+      "terminal": {
+        "reveal": "always"
+      }
+    }
   }
 }

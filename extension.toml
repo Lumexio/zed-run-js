@@ -7,7 +7,4 @@ description = "Run JavaScript files with one a shortcut"
 repository = "https://github.com/lumexio/zed-run-js"
 
 
-[features]
-tasks = ["tasks.json"]
-keymaps = ["keymaps.json"]
-commands = ["commands.json"]
+
