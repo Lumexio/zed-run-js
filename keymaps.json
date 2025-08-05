@@ -1,0 +1,14 @@
+{
+  "keymaps": [
+    {
+      "bindings": {
+        "ctrl-r": "run_task:run-javascript"
+      },
+      "context": [
+        {
+          "file_path_pattern": "\\.js$"
+        }
+      ]
+    }
+  ]
+}

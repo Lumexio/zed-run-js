@@ -1,0 +1,12 @@
+{
+ "commands": [
+  {
+   "name": "run-javascript",
+   "title": "Run JavaScript File",
+   "command": "run_task",
+   "arguments": {
+    "task_name": "run-javascript"
+   }
+  }
+ ]
+}

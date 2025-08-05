@@ -1,0 +1,18 @@
+{
+  "run-javascript": {
+    "label": "Run JavaScript",
+    "command": "node",
+    "args": [
+      "${file}"
+    ],
+    "working_directory": "${file_directory}",
+    "environment": {},
+    "only_in_file_paths": [
+      "\\.js$"
+    ],
+    "terminal": {
+      "reveal": "always",
+      "focus": true
+    }
+  }
+}

@@ -1,0 +1,13 @@
+id = "zed-run-js"
+name = "Run JavaScript"
+version = "0.1.0"
+schema_version = 1
+authors = ["Lumexio"]
+description = "Run JavaScript files with one a shortcut"
+repository = "https://github.com/lumexio/zed-run-js"
+
+
+[features]
+tasks = ["tasks.json"]
+keymaps = ["keymaps.json"]
+commands = ["commands.json"]
